@@ -1,8 +1,0 @@
-
-#Developer Config
-[developer]
-	#Make Modern UI only as a library mod to work.
-	enableLibOnlyMode = false
-	#For assisting developer to debug mod and edit modules in-game
-	enableDeveloperMode = false
-
