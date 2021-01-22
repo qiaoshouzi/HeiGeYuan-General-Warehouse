@@ -28,7 +28,7 @@ ofAnimatedTerrain:true
 ofAnimatedTextures:true
 ofRainSplash:true
 ofLagometer:true
-ofShowFps:false
+ofShowFps:true
 ofAutoSaveTicks:4000
 ofBetterGrass:3
 ofConnectedTextures:2
@@ -58,7 +58,7 @@ ofRenderRegions:false
 ofSmartAnimations:false
 ofDynamicFov:true
 ofAlternateBlocks:true
-ofDynamicLights:2
+ofDynamicLights:3
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
@@ -68,5 +68,4 @@ ofFastRender:false
 ofTranslucentBlocks:0
 ofChatBackground:0
 ofChatShadow:true
-ofUseVbo:true
 key_of.key.zoom:key.keyboard.c

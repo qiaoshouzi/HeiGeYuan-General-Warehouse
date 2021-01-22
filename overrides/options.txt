@@ -6,10 +6,10 @@ chatLinks:true
 chatLinksPrompt:true
 enableVsync:false
 entityShadows:true
-forceUnicodeFont:false
+forceUnicodeFont:true
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:false
+realmsNotifications:true
 reducedDebugInfo:false
 snooperEnabled:false
 showSubtitles:false
@@ -22,7 +22,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 renderDistance:20
-guiScale:2
+guiScale:1
 particles:0
 maxFps:260
 difficulty:2
@@ -30,9 +30,9 @@ fancyGraphics:true
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources"]
+resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:222.186.174.9:55557
+lastServer:
 lang:zh_cn
 chatVisibility:0
 chatOpacity:1.0
@@ -47,7 +47,7 @@ heldItemTooltips:true
 chatHeightFocused:1.0
 chatHeightUnfocused:0.44366195797920227
 chatScale:1.0
-chatWidth:0.92857146
+chatWidth:1.0
 mipmapLevels:4
 useNativeTransport:true
 mainHand:right
@@ -80,7 +80,7 @@ key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapHands:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.unknown
-key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.x
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -93,8 +93,6 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_of.key.zoom:key.keyboard.c
 key_neat.keybind.toggle:key.keyboard.unknown
-key_fpsreducer.key.openGui:key.keyboard.unknown
-key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -104,10 +102,11 @@ key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
 key_gui.xaero_toggle_map:key.keyboard.unknown
 key_gui.xaero_enlarge_map:key.keyboard.z
 key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_zoom_in:key.keyboard.i
-key_gui.xaero_zoom_out:key.keyboard.o
+key_gui.xaero_zoom_in:key.keyboard.unknown
+key_gui.xaero_zoom_out:key.keyboard.unknown
 key_gui.xaero_new_waypoint:key.keyboard.b
 key_gui.xaero_display_all_sets:key.keyboard.unknown
+key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_quick_eat:key.keyboard.r
 key_gui.xaero_toggle_sneak:key.keyboard.unknown
 key_gui.xaero_quick_use_1:key.keyboard.keypad.1
