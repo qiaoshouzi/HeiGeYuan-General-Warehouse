@@ -1,8 +1,8 @@
 {
   "name": "黑鸽院通用网络整合包",
   "author": "qiaoshouzi",
-  "version": "V 1.1",
-  "description": "更新OptFine至最新版\n\n由更新包更新变为网络更新，Github作为文件的存储 jsDelivr进行加速\n\n[Github仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)\n\nQiaoshouzi - 2021.1.20",
+  "version": "V1.1",
+  "description": "更新OptFine至最新版\n\n由更新包更新变为网络更新，Github作为文件的存储 jsDelivr进行加速\n\n[Github仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)\n\nQiaoshouzi - 2021.1.24",
   "fileApi": "https://cdn.jsdelivr.net/gh/qiaoshouzi/Heigeyuan-Universal-Integration-Package@HMCL",
   "files": [
     {
@@ -47,11 +47,15 @@
     },
     {
       "path": "config/titlechanger-client.toml",
-      "hash": "0FAC6948886B9513E48F7CD2413C5C7AEB318D92"
+      "hash": "4ff5cbf2b7efc257f9787885f59712c9b1cee3ef"
     },
     {
       "path": "config/xaeropatreon.txt",
       "hash": "ea102322bdf5be36acef1ed783e85b6a0d1ee418"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "a4dd2340722861f3423de2801c15c69bf1e982d0"
     },
     {
       "path": "mods/[B][开始页]BetterTitleScreen-1.15.2-1.9.jar",
