@@ -3,7 +3,7 @@
   "author": "qiaoshouzi",
   "version": "V1.1",
   "description": "更新OptFine至最新版\n\n由更新包更新变为网络更新，Github作为文件的存储 jsDelivr进行加速\n\n[Github仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)\n\nQiaoshouzi - 2021.1.24",
-  "fileApi": "https://cdn.jsdelivr.net/gh/qiaoshouzi/Heigeyuan-Universal-Integration-Package@HMCL",
+  "fileApi": "https://cdn.jsdelivr.net/gh/qiaoshouzi/Heigeyuan-Universal-Integration-Package@HMCL/",
   "files": [
     {
       "path": "config/bettertitlescreen-client.toml",
@@ -35,7 +35,7 @@
     },
     {
       "path": "config/pvpsettings.txt",
-      "hash": "5a36f1362f3250637134415da12ae6ac63ef425e"
+      "hash": "8118eb33db578768238862430ca62a846b7368c0"
     },
     {
       "path": "config/resourcepackorganizer-client.toml",
@@ -55,7 +55,7 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "a4dd2340722861f3423de2801c15c69bf1e982d0"
+      "hash": "A94EFABAF4E521A974FCF5392E9B6D772D6DC9EB"
     },
     {
       "path": "mods/[B][开始页]BetterTitleScreen-1.15.2-1.9.jar",
