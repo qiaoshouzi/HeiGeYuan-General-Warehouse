@@ -1,0 +1,188 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "黑鸽院通用网络整合包",
+  "version": "V1.2",
+  "author": "qiaoshozui",
+  "description": "更新OptFine至最新版\n\n网络更新包新增强制更新\n\nHMCL更新3.3.181版本，记得更新哟\n\n[Github仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)\n\nQiaoshouzi - 2021.1.29",
+  "fileApi": "https://cdn.jsdelivr.net/gh/qiaoshouzi/Heigeyuan-Universal-Integration-Package@HMCL",
+  "url": "",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.15.2"
+    },
+    {
+      "id": "forge",
+      "version": "31.2.47"
+    },
+    {
+      "id": "optifine",
+      "version": "HD_U_G6_pre5"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "config/bettertitlescreen-client.toml",
+      "hash": "78a8d120d6695eefcb1fd24049c705192cf1f0c3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/blur-client.toml",
+      "hash": "65bcc833b5e69ad8ce5b16fac8d06fd929ea586a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/ding.toml",
+      "hash": "275158f1d4bf5fc62ec0dadc64391593e5196f5f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "eb0d123e41e62961daf251369a879dc98085ee42",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "4df95817f218680226abcd09bb3ac69410677694",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/neat-client.toml",
+      "hash": "c2cc4a2f76e470112c45bc8da5ce4cc17cac9bfb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/pvpsettings.txt",
+      "hash": "8118eb33db578768238862430ca62a846b7368c0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/resourcepackorganizer-client.toml",
+      "hash": "8322526f4ca9ec4858046df9b8af225e51ed8393",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/searchablechests-client.toml",
+      "hash": "9ce3db0028375a6dc014443bf7485482a0ae4d91",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/titlechanger-client.toml",
+      "hash": "f22e7660c6fca25f3fefe51d44192e43ab1707a7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "ea102322bdf5be36acef1ed783e85b6a0d1ee418",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "hmclversion.cfg",
+      "hash": "a94efabaf4e521a974fcf5392e9b6d772d6dc9eb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[B][开始页]BetterTitleScreen-1.15.2-1.9.jar",
+      "hash": "6eab3ebf9338051052c67e6e778a985ced7735f7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[B][更好的PVP]etterPvP_21.1.0_Forge_1.15.2.jar",
+      "hash": "513f49f1967aa8fa6c523697a422a8d92ec8a5da",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[B][背景虚化]Blur-1.1.0-1.jar",
+      "hash": "3cefdea7a4f500ad9d58f2f87199b0d64e716085",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[D][界面进入提醒]Ding-1.15.2-1.1.0.jar",
+      "hash": "c7d4d03eded9aff5553be9a94be9bd0a49dd8be1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[M][鼠标整理]MouseTweaks-2.13-mc1.15.1.jar",
+      "hash": "fd0eae9285ddadbadade0d0704b3852e9cd41241",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[N][血量显示]Neat+1.6-22.jar",
+      "hash": "d8aea0363c99e62e821e101f02dcbb1f82585e74",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[R][资源包管理器]ResourcePackOrganizer-1.15.2-v1.1.0.jar",
+      "hash": "4350575fb744b9e466bed4dcb0982d90589616b0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[S][箱子搜索]searchablechests-1.15-1.5.4-2.jar",
+      "hash": "412881d3f072114da635acb48e7fd44924d550e2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[T][标题]titlechanger-3.1.0.jar",
+      "hash": "044c45bcbbda89fce6002dc46f338c5dabb9c9a6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "options.txt",
+      "hash": "48d1be9be5dd4b1bfd6bfd5a1b7c21dcbf3b7c50",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "optionsof.txt",
+      "hash": "8256f4af3a692bb8cdf81aa583fb846a8158349a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "bfd108fcfc781436803e86862da7320508c6d232",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_modes": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 4096,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}
