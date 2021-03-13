@@ -1,4 +1,4 @@
-# 这里存放VN的图
+# 这里存放VN的图 :id=VNPicture
 
 > [源链接](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@CFPages_WEB/_img/V-Final_6.jpg)
 >

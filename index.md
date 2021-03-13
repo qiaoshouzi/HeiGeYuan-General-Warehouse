@@ -1,6 +1,6 @@
-# 主页
+# 主页 :id=home
 
-## 导航栏
+## 导航栏 :id=navigation_bar
 
 [查看地图](http://map.heigeyuancz.com:55556)
 
@@ -8,14 +8,13 @@
 
 [服务器监控](https://jk.heigeyuancz.com)
 
-## 公告
+## 公告 :id=announcement
 
 QQ群：1094463434
 
-## 如何安装整合包
+## 如何安装整合包 :id=How_do_I_install_the_integration
 
 &lt;**TODO**&gt;
-
 
 
 
