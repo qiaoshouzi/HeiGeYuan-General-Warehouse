@@ -12,20 +12,9 @@
 
 QQ群：1094463434
 
-## VNの地图线路图
-
-[点击查看](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@WEB/_img/V-Final.jpg)
-
 ## 如何安装整合包
 
 &lt;**TODO**&gt;
-
-
-
-
-
-
-
 
 
 
