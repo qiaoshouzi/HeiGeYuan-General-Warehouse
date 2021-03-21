@@ -1,4 +1,8 @@
+!> [API](https://www.imlazy.ink/)
+
 ![该API出现问题，请联系乔瘦子解决](https://api.imlazy.ink/img/)
+
+<p id="hitokoto"><a href="#" id="hitokoto_text">:D 获取中~</a></p>
 
 
 

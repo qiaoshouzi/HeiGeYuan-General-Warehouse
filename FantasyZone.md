@@ -1,4 +1,8 @@
+!> [API](https://www.fantasyzone.cc/api/)
+
 ![该API出现问题，请联系乔瘦子解决](https://www.fantasyzone.cc/api/tu)
+
+<p id="hitokoto"><a href="#" id="hitokoto_text">:D 获取中~</a></p>
 
 
 
