@@ -3,4 +3,3 @@
 # **黑    鸽    院** :id=heigeyuan
 
 [GitHub](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse/) 
-[访问](/index)
