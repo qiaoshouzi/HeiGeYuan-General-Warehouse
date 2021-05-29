@@ -17,8 +17,10 @@
     <script>
         window.$docsify = {
             name: '黑鸽院',
+            nameLink: '/#/README',
             repo: 'qiaoshouzi/HeiGeYuan-General-Warehouse',
             homepage: 'index.md',
+            disqus: 'heigeyuan',
             notFoundPage: true,
             loadSidebar: true,
             coverpage: true,
@@ -26,6 +28,17 @@
                 siteFont: 'Source Sans Pro,Helvetica Neue,Arial,sans-serif',
                 defaultTheme: 'light | dark',
             },
+            count:{
+                countable:true,
+                fontsize:'0.5em',
+                color:'rgb(90,90,90)',
+                language:'chinese'
+            },
+            progress: {
+                position: "top",
+                color: "var(--theme-color,#42b983)",
+                height: "4px",
+            }
         }
     </script>
     <script>
@@ -46,6 +59,10 @@
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
+    <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
 </body>
 
 </html>

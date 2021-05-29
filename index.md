@@ -1,4 +1,4 @@
-# 主页 :id=home
+# 首页 :id=home
 
 ## 导航栏 :id=navigation_bar
 
