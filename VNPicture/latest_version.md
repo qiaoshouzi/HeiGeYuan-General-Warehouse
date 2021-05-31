@@ -4,7 +4,7 @@
 >
 > 点击下面的图片即可查看完整版
 
-![该API出现问题，请联系乔瘦子解决](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@CFPages_WEB/VNPicture/_img/V-Final_9.jpg)
+![该API出现问题，请联系乔瘦子解决](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@CFPages_WEB/1VNPicture/_img/V-Final_9.jpg)
 
 <br>
 <p id="hitokoto"><a href="#" id="hitokoto_text">:D 获取中~</a></p>
