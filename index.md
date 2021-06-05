@@ -6,7 +6,7 @@
 
 [查看玩家数据](http://plan.heigeyuancz.com/)
 
-[服务器监控](https://jk.heigeyuan.com)
+[查看节点实时状态](https://jk.heigeyuan.com)
 
 ## 公告 :id=announcement
 
