@@ -15,11 +15,11 @@
 | 正常, **待维护** | 主节点             | heigeyuan.com     |
 |                  |                    |                   |
 | **未部署**       | 稳定节点-枣庄      | zz.heigeyuan.com  |
-| 正常             | 稳定节点-枣庄1     | zz.heigeyuan.com  |
-| **未部署**       | 稳定节点-枣庄2     | zz.heigeyuan.com  |
-| **未部署**       | 稳定节点-枣庄3     | zz.heigeyuan.com  |
-| **未部署**       | 稳定节点-枣庄4     | zz.heigeyuan.com  |
-| 正常             | 稳定节点-枣庄5     | zz.heigeyuan.com  |
+| 正常             | 稳定节点-枣庄1     | zz1.heigeyuan.com  |
+| **未部署**       | 稳定节点-枣庄2     | zz2.heigeyuan.com  |
+| **未部署**       | 稳定节点-枣庄3     | zz3.heigeyuan.com  |
+| **未部署**       | 稳定节点-枣庄4     | zz4.heigeyuan.com  |
+| 正常             | 稳定节点-枣庄5     | zz5.heigeyuan.com  |
 |                  |                    |                   |
 | 正常             | 阿里节点-北京      | bj.heigeyuan.com  |
 | 正常             | 阿里节点-北京1     | bj1.heigeyuan.com |
