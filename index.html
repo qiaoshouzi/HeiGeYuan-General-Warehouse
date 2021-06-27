@@ -10,6 +10,34 @@
     <link rel="shortcut icon" href="./favicon/favicon.webp">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/style.min.css" />
+
+    <style>
+        /* 字体大小 */
+        
+        h1 {
+            font-size: 28px !important;
+        }
+        
+        h2 {
+            font-size: 24px !important;
+        }
+        
+        h3 {
+            font-size: 20px !important;
+        }
+        
+        h4 {
+            font-size: 18px !important;
+        }
+        
+        h5 {
+            font-size: 16px !important;
+        }
+        
+        h6 {
+            font-size: 14px !important;
+        }
+    </style>
 </head>
 
 <body>
@@ -17,10 +45,9 @@
     <script>
         window.$docsify = {
             name: '黑鸽院',
-            nameLink: '/#/README',
+            nameLink: '/#/Home',
             repo: 'qiaoshouzi/HeiGeYuan-General-Warehouse',
-            homepage: 'index.md',
-            // disqus: 'heigeyuan',
+            homepage: 'Home.md',
             notFoundPage: true,
             loadSidebar: true,
             coverpage: true,
@@ -28,11 +55,12 @@
                 siteFont: 'Source Sans Pro,Helvetica Neue,Arial,sans-serif',
                 defaultTheme: 'light | dark',
             },
-            count:{
-                countable:true,
-                fontsize:'0.5em',
-                color:'rgb(90,90,90)',
-                language:'chinese'
+            search: {
+                maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+                paths: 'auto',
+                placeholder: '搜索...',
+                noData: '未找到结果，请换一个关键词重试',
+                depth: 6,
             },
             progress: {
                 position: "top",
@@ -49,34 +77,16 @@
             })
             .catch(console.error)
     </script>
-    <style>
-        :root {
-            --docsifytabs-border-color: #ededed;
-            --docsifytabs-tab-highlight-color: purple;
-    }
-    </style>
-    <!-- <script>
-        fetch('https://v1.hitokoto.cn')
-            .then(response => response.json())
-            .then(data => {
-                const hitokoto = document.getElementById('hitokoto_text')
-                hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-                hitokoto.innerText = data.hitokoto
-            })
-            .catch(console.error)
-    </script> -->
     <!-- Docsify -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 
     <!-- Plugin -->
-    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/index.min.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
-
-    <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script> -->
-    <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/index.min.js"></script> <!-- 黑夜 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.js"></script> <!-- emoji -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.js"></script> <!-- 图片缩放插件 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script> <!-- 拷贝代码 -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script> <!-- 阅读进度条插件 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script> <!-- 搜索插件 -->
 </body>
 
 </html>

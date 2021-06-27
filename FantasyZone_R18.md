@@ -1,12 +1,8 @@
-# 最新版本 :id=latest_version
+?> [API指南](https://api.fantasyzone.cc/#/tu)  
+[返回](FantasyZone.md "FantasyZone")  
+更换图片需要刷新本页
 
-> [源链接](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@CFPages_WEB/VNPicture/_img/V-Final-12.jpg)
->
-> 当前版本: V-Final-12
->
-> 点击下面的图片即可查看完整版
-
-![该API出现问题，请联系乔瘦子解决](https://cdn.jsdelivr.net/gh/qiaoshouzi/HeiGeYuan-General-Warehouse@CFPages_WEB/VNPicture/_img/V-Final-12.jpg)
+![该API出现问题，请联系乔瘦子解决](https://api.fantasyzone.cc/tu?class=pixiv&r18=1)
 
 <br>
 <p id="hitokoto"><a href="#" id="hitokoto_text">:D 获取中~</a></p>

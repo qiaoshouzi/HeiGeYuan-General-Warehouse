@@ -1,4 +1,6 @@
-?> [API](https://www.fantasyzone.cc/api/)
+?> [API指南](https://api.fantasyzone.cc/#/tu)  
+[R18限制级图片查看(请确保自身安全)](FantasyZone_R18.md)  
+更换图片需要刷新本页
 
 ![该API出现问题，请联系乔瘦子解决](https://www.fantasyzone.cc/api/tu)
 

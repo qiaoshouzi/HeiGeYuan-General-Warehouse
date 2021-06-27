@@ -1,6 +1,6 @@
 # 首页 :id=home
 
-## 导航栏 :id=navigation_bar
+## 导航栏 :id=nav
 
 [查看地图](http://map.heigeyuancz.com:55556)
 
@@ -8,11 +8,15 @@
 
 [查看节点实时状态](https://jk.heigeyuan.com)
 
+[Github主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)
+
+[Girhub仓库/WebApp](https://github.com/qiaoshouzi/heigeyuanWebApp)
+
 ## 公告 :id=announcement
 
 QQ群：1094463434
 
-## 如何安装整合包 :id=How_do_I_install_the_integration
+## 如何安装整合包 :id=Integration_installation_tutorial
 
 &lt;**TODO**&gt;
 
