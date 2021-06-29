@@ -8,17 +8,7 @@
 
 [查看节点实时状态](https://jk.heigeyuan.com)
 
-[Github主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)
-
-[Girhub仓库/WebApp](https://github.com/qiaoshouzi/heigeyuanWebApp)
-
-## 公告 :id=announcement
-
-QQ群：1094463434
-
-## 如何安装整合包 :id=Integration_installation_tutorial
-
-&lt;**TODO**&gt;
+Github: [主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)|[WebApp](https://github.com/qiaoshouzi/heigeyuanWebApp)
 
 <br>
 <p id="hitokoto"><a href="#" id="hitokoto_text">:D 获取中~</a></p>
