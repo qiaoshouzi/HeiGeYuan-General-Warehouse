@@ -6,4 +6,4 @@
 - 教程/WIKI：[Github WIKI](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse/wiki/黑鸽院基础客户端使用教程)
 - 更新地址：https://dow.heigeyuan.com
 
-123
+即将更新，以上内容均不可靠(2021.7.1)
