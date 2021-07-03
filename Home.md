@@ -8,6 +8,8 @@
 
 [查看节点实时状态](https://jk.heigeyuan.com)
 
+[查看服务器硬件仪表盘](https://ward.heigeyuan.com)
+
 Github: [主仓库](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse)|[WebApp](https://github.com/qiaoshouzi/heigeyuanWebApp)
 
 客户端最新版本号: `V1.0.0`
