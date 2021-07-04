@@ -6,6 +6,8 @@
 
 [查看玩家数据](http://plan.heigeyuancz.com/)
 
+[前往网盘](http://pan.heigeyuancz.com:55557/)
+
 [查看节点实时状态](https://jk.heigeyuan.com)
 
 [查看服务器硬件仪表盘](https://ward.heigeyuan.com)
