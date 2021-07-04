@@ -4,9 +4,9 @@
 
 [查看地图](http://map.heigeyuancz.com:55556)
 
-[前往网盘](http://pan.heigeyuancz.com:55557/)
+[前往网盘](https://pan.heigeyuan.com)
 
-[查看玩家数据](http://plan.heigeyuancz.com/)
+[查看玩家数据](http://plan.heigeyuancz.com)
 
 [查看节点实时状态](https://jk.heigeyuan.com)
 
