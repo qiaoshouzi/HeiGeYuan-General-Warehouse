@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <title>黑鸽院 - WebApp</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="shortcut icon" href="./favicon/favicon.webp">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/style.min.css" />
+
+    <style>
+        /* 字体大小 */
+        
+        h1 {
+            font-size: 28px !important;
+        }
+        
+        h2 {
+            font-size: 24px !important;
+        }
+        
+        h3 {
+            font-size: 20px !important;
+        }
+        
+        h4 {
+            font-size: 18px !important;
+        }
+        
+        h5 {
+            font-size: 16px !important;
+        }
+        
+        h6 {
+            font-size: 14px !important;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">加载中~</div>
+    <script>
+        window.$docsify = {
+            name: '黑鸽院',
+            nameLink: '#/Home',
+            repo: 'qiaoshouzi/HeiGeYuan-General-Warehouse',
+            homepage: 'Home.md',
+            notFoundPage: true,
+            loadSidebar: true,
+            coverpage: true,
+            subMaxLevel: 6,
+            darklightTheme: {
+                siteFont: 'Source Sans Pro,Helvetica Neue,Arial,sans-serif',
+                defaultTheme: 'light | dark',
+            },
+            search: {
+                maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+                paths: 'auto',
+                placeholder: '搜索...',
+                noData: '未找到结果，请换一个关键词重试',
+                depth: 6,
+            },
+            progress: {
+                position: "top",
+                color: "var(--theme-color,#42b983)",
+                height: "4px",
+            }
+        }
+        fetch('https://v1.hitokoto.cn')
+            .then(response => response.json())
+            .then(data => {
+                const hitokoto = document.getElementById('hitokoto_text')
+                hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+                hitokoto.innerText = data.hitokoto
+            })
+            .catch(console.error)
+    </script>
+    <!-- Docsify -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+    <!-- Plugin -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme/dist/index.min.js"></script> <!-- 黑夜 -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.js"></script> <!-- emoji -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.js"></script> <!-- 图片缩放插件 -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code"></script> <!-- 拷贝代码 -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script> <!-- 阅读进度条插件 -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script> <!-- 搜索插件 -->
+</body>
+
+</html>
