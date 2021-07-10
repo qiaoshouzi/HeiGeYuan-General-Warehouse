@@ -1,9 +1,15 @@
 # 黑鸽院综合仓库
 
-### 黑鸽院服务器相关
+## 导航栏
 
-- 基础客户端下载：[jsDelivr加速下载](https://cdn.jsdelivr.net/gh/qiaoshouzi/Heigeyuan-Universal-Integration-Package@main/黑鸽院基础客户端.zip)    [第三方加速下载](https://github.91chifun.workers.dev//https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse/releases/download/V1.1/Win.zip)    蓝奏云[未上传]    百度云盘[未上传]
-- 教程/WIKI：[Github WIKI](https://github.com/qiaoshouzi/HeiGeYuan-General-Warehouse/wiki/黑鸽院基础客户端使用教程)
-- 更新地址：https://dow.heigeyuan.com
+[查看地图](http://map.heigeyuan.com/)
 
-即将更新，以上内容均不可靠(2021.7.1)
+[查看玩家数据](http://plan.heigeyuancz.com/)
+
+[查看节点实时状态](https://jk.heigeyuan.com/)
+
+[Github: WebApp](https://github.com/qiaoshouzi/heigeyuanWebApp)
+
+[查看服务器硬件仪表盘](https://ward.heigeyun.com/)
+
+客户端安装指南: [官网教程](https://www.heigeyuan.com/#/McAppHelp)|[Github Wiki](/wiki/%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)
