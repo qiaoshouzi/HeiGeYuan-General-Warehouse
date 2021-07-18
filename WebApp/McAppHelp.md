@@ -1,6 +1,6 @@
 # 客户端安装指南
 
-客户端最新版本号: `V1.0.1`
+客户端最新版本号: `V1.1.0`
 
 ## 极简客户端下载
 
@@ -10,11 +10,11 @@
 
 单击`点击更新.exe`从云端补齐文件
 
-![图片: ./_img/McAppHelp-1.webp](./_img/McAppHelp-1.webp)
+![](./_img/McAppHelp-1.webp)
 
 从云端补齐文件后如图
 
-![图片: ./_img/McAppHelp-2.webp](./_img/McAppHelp-2.webp)
+![](./_img/McAppHelp-2.webp)
 
 `HMCL.exe`为游戏启动器
 
