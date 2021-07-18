@@ -4,17 +4,17 @@
 
 ## 极简客户端下载
 
-[点击](McAppHelp_Warn.md)进入下载中心，密码请**前往QQ群**获取
+[点击](https://qiaoshouzi.lanzoui.com/s/heigeyuan)进入下载中心，密码请**前往QQ群**获取
 
 下载`黑鸽院客户端.zip`到本地一个**你喜欢的位置**并解压
 
 单击`点击更新.exe`从云端补齐文件
 
-![](./_img/McAppHelp-1.png)
+![图片: ./_img/McAppHelp-1.webp](./_img/McAppHelp-1.webp)
 
 从云端补齐文件后如图
 
-![](./_img/McAppHelp-2.png)
+![图片: ./_img/McAppHelp-2.webp](./_img/McAppHelp-2.webp)
 
 `HMCL.exe`为游戏启动器
 
@@ -26,7 +26,7 @@
 
 通过**查看本地文件**中的`当前版本Vx.x.x`与**最新版本号**做对比**选择是否更新**
 
-![](./_img/McAppHelp-3.png)
+![图片: ./_img/McAppHelp-3.webp](./_img/McAppHelp-3.webp)
 
 <br>
 <p id="hitokoto">一言: <a href="#/McAppHelp" id="hitokoto_text" target="blank">:D 获取中~</a></p>
