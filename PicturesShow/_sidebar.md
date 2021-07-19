@@ -2,5 +2,4 @@
 - 美图
   - [FantasyZone](PicturesShow/FantasyZone.md "FantasyZone")
   - [雫 API](PicturesShow/Lazy_API.md "雫 API")
-- Cat :cat:
-  - [Demo](PicturesShow/cat_demo.md "Demo")
+- [Cat :cat:](PicturesShow/Cat.md)

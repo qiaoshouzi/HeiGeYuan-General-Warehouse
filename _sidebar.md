@@ -1,7 +1,7 @@
 - [首页](Home.md)
 - [节点](nodes.md)
+- [图片展示](PicturesShow/Home.md)
 - [客户端安装指南](McAppHelp.md)
 - VNの地图线路图
   - [最新版本](VNPicture/latest_version.md)
   - [历史版本](VNPicture/history_version.md)
-- [图片展示](PicturesShow/Home.md)
