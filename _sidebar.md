@@ -4,6 +4,4 @@
 - VNの地图线路图
   - [最新版本](VNPicture/latest_version.md)
   - [历史版本](VNPicture/history_version.md)
-- 图片展示
-  - [FantasyZone](PicturesShow/FantasyZone.md "FantasyZone")
-  - [雫 API](PicturesShow/Lazy_API.md "雫 API")
+- [图片展示](PicturesShow/Home.md)
